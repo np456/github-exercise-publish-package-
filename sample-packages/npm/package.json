@@ -1,4 +1,4 @@
 {
   "name": "@np456/hello-world-npm",
-  "your": "json config here"
+  "repository": "git://github.com/np456/hello-world-npm.git"
 }
