@@ -1,4 +1,7 @@
 {
   "name": "@np456/hello-world-npm",
-  "repository": "git://github.com/np456/hello-world-npm.git"
+  "repository": "git://github.com/np456/hello-world-npm.git",
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+}
 }
